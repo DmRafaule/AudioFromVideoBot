@@ -1,0 +1,56 @@
+# English translations for PROJECT.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-10-04 08:12+0300\n"
+"PO-Revision-Date: 2026-10-04 08:05+0300\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: main.py:33
+msgid "Скачиваю видео"
+msgstr "Download the video"
+
+#: main.py:40
+msgid "Извлекаю аудио из видео"
+msgstr "Extract audio from video"
+
+#: main.py:44
+msgid "Отправляю результат обратно тебе"
+msgstr "Send the result back to you"
+
+#: main.py:48
+msgid "Подчищаю за собой"
+msgstr "Cleaning Up"
+
+#: main.py:54
+msgid "Автор <a href='https://timthewebmaster.com/ru/'>TimTheWebmaster</a>"
+msgstr "Author <a href='https://timthewebmaster.com/en/'>TimTheWebmaster</a>"
+
+#: main.py:55
+msgid ""
+"\n"
+"Это экстрактор аудио из видео.\n"
+"Просто отправь своё видео в чат и бот вернёт весь аудио дорожку этого "
+"видео.\n"
+msgstr ""
+"\n"
+"This is extractor audio from video.\n"
+"Simply send your video to the chat, and the bot will return the video's "
+"entire audio track.\n"
+
+#: main.py:59
+msgid "Ещё больше ботов на @timthewebmaster"
+msgstr "Even more bots on @timthewebmaster"
+

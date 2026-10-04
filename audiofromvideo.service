@@ -1,0 +1,14 @@
+[Unit]
+Description=Telegram bot for extraction an audio from vido
+After=syslog.target
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/root/bots/AudioFromVideo
+ExecStart=/root/bots/AudioFromVideo/start.sh
+RestartSec=60
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

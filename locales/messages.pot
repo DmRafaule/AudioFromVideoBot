@@ -1,0 +1,51 @@
+# Translations template for PROJECT.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-10-04 08:12+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: main.py:33
+msgid "Скачиваю видео"
+msgstr ""
+
+#: main.py:40
+msgid "Извлекаю аудио из видео"
+msgstr ""
+
+#: main.py:44
+msgid "Отправляю результат обратно тебе"
+msgstr ""
+
+#: main.py:48
+msgid "Подчищаю за собой"
+msgstr ""
+
+#: main.py:54
+msgid "Автор <a href='https://timthewebmaster.com/ru/'>TimTheWebmaster</a>"
+msgstr ""
+
+#: main.py:55
+msgid ""
+"\n"
+"Это экстрактор аудио из видео.\n"
+"Просто отправь своё видео в чат и бот вернёт весь аудио дорожку этого "
+"видео.\n"
+msgstr ""
+
+#: main.py:59
+msgid "Ещё больше ботов на @timthewebmaster"
+msgstr ""
+
